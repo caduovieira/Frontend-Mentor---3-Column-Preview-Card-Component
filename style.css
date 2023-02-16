@@ -93,13 +93,14 @@ body {
     border-radius: 25px;
     position: absolute;
     bottom: 44px;
-    transition: padding 0.3s, filter 0.3s;
+    transition: transform 0.3s, filter 0.3s;
 }
 
 .box button:hover {
+    transform: scale(1.05);
     cursor: pointer;
     filter: brightness(115%);
-    padding: 0 36px;
+    
 }
 
 footer {
