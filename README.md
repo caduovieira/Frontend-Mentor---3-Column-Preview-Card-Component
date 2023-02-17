@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- [Solution URL](https://www.frontendmentor.io/solutions/solution-for-3-column-preview-card-component-cygEQ4yR1l)
 - [Live site URL](https://frontend-mentor-3-column-preview-card-component-tau.vercel.app/)
 
 ## My process
