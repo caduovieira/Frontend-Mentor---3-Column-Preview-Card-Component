@@ -40,8 +40,8 @@ body {
 }
 
 .box {
-    height: calc(500px - 46px - 44px);
-    width: calc(307px - 48px - 50px);
+    height: 500px;
+    width: 307px;
     padding: 46px 48px 44px 50px;
     position: relative;
 }
@@ -104,7 +104,8 @@ body {
 }
 
 footer {
-    background-color: black;
+    color: lightslategray;
+    background-color: var(--veryLightGray);
     padding: 3px 0;
     text-align: center;
     position: fixed;
@@ -113,7 +114,7 @@ footer {
 }
 
 footer a {
-    color: var(--veryLightGray);
+    color: lightseagreen ;
     font-weight: 500;
     text-decoration: none;
 }
